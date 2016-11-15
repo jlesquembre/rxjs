@@ -9,6 +9,7 @@ import { Observable } from '../Observable';
  * @param {function} callback function to be called when source terminates.
  * @return {Observable} an Observable that mirrors the source, but will call the specified function on termination.
  * @method finally
+ * @name finally
  * @owner Observable
  */
 export function _finally<T>(this: Observable<T>, callback: () => void): Observable<T> {

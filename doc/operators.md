@@ -226,7 +226,7 @@ There are operators for different purposes, and they may be categorized as: crea
 - [`delay`](../class/es6/Observable.js~Observable.html#instance-method-delay)
 - [`delayWhen`](../class/es6/Observable.js~Observable.html#instance-method-delayWhen)
 - [`dematerialize`](../class/es6/Observable.js~Observable.html#instance-method-dematerialize)
-- `finally`
+- [`finally`](../class/es6/Observable.js~Observable.html#instance-method-finally)
 - `let`
 - [`materialize`](../class/es6/Observable.js~Observable.html#instance-method-materialize)
 - [`observeOn`](../class/es6/Observable.js~Observable.html#instance-method-observeOn)
